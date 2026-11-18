@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hey, I'm Amirmahdi 👋
@@ -17,7 +18,7 @@ I build mobile and full-stack products with a focus on clean architecture, pract
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Star Grill**](https://github.com/amir-hassanpour/Star_Grill) | Point-of-sale system for restaurant orders, payments, receipts, and daily sales tracking. | Java |
+| [**Star Grill**](https://github.com/amir-hassanpour/Star_Grill) | Production POS currently used at **two restaurant locations** for orders, payments, receipts, and daily sales tracking. | Java, Maven |
 | [**Basketball Classification ML**](https://github.com/amir-hassanpour/basketball-classification-ml) | Compares KNN, decision trees, SVM, and logistic regression on NCAA basketball data. | Python, Jupyter, scikit-learn |
 
 ## 🧰 Tech Toolbox
